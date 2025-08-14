@@ -31,7 +31,7 @@ pw-link -d PipeWire:output_AUX1 media:playback_FR
 EOF
 )
 
-# Folder containing your PipeWire configs / qpwgraph files
+# Folder containing your qpwgraph config file / pipewire-script.py config file
 CONFIG_FOLDER="$HOME/Documents/Coding/Bash/Garuda/Configs"
 
 # qpwgraph project file
