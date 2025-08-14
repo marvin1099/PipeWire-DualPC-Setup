@@ -32,7 +32,7 @@ DISCONNECT_CMD="" # pw-cli ls | awk '/ PipeWire:Interface:Link/ {print substr($2
 # EOF
 # )
 
-# Folder containing your PipeWire configs / qpwgraph files
+# Folder containing your qpwgraph config file / pipewire-script.py config file
 CONFIG_FOLDER="$HOME/Documents/Coding/Bash/Garuda/Configs"
 
 # Path to your PipeWire graph configuration file
